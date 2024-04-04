@@ -1802,8 +1802,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.11442993, y: -0.88471496, z: 0.33940196, w: -0.2983145}
-  m_LocalPosition: {x: -122.9, y: 268.1, z: 204.3}
+  m_LocalRotation: {x: -0.121718355, y: -0.82305604, z: 0.19254658, w: -0.5202781}
+  m_LocalPosition: {x: -552, y: 97.803406, z: 132.35197}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2002,9 +2002,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3252980b163fec4fa654d607a235a40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targets: []
+  targets:
+  - {fileID: 1307680031}
+  - {fileID: 1721500710}
+  - {fileID: 2104711534}
+  - {fileID: 2142136565}
+  - {fileID: 2006682556}
   patrullajeAleatorio: 1
-  tiempoEspera: 0
+  tiempoEspera: 5
 --- !u!114 &1100260767
 MonoBehaviour:
   m_ObjectHideFlags: 0
