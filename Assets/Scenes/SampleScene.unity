@@ -2008,7 +2008,7 @@ MonoBehaviour:
   - {fileID: 2104711534}
   - {fileID: 2142136565}
   - {fileID: 2006682556}
-  patrullajeAleatorio: 1
+  patrullajeAleatorio: 0
   tiempoEspera: 5
 --- !u!114 &1100260767
 MonoBehaviour:
@@ -2048,7 +2048,7 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1100260764}
-  m_Enabled: 0
+  m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
   m_Speed: 3.5
