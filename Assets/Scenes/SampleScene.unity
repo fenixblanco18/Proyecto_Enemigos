@@ -2826,7 +2826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distanciaExplosion: 5
-  prefabExplosion: {fileID: 41131314305615106, guid: f7f3a304e426a0f48bb8ba01c80bde96, type: 3}
+  prefabExplosion: {fileID: 2433282508537954060, guid: d1852575bb3a1d54b9eb180ddfb22b03, type: 3}
   damage: 10
 --- !u!114 &1196449268
 MonoBehaviour:
